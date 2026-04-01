@@ -14,3 +14,6 @@ Operator error is the leading cause od downtime
 Charlie is the top performer and Charlie is a underperformer
 
 The total units of time lost is 1388
+
+
+Chexk here for the Dashboard https://github.com/Soft-Analytics/Industry-report-/blob/main/Screenshot%202026-02-02%20214156.png
